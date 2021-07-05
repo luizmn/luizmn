@@ -12,4 +12,5 @@
 
 [Rocketseat](https://app.rocketseat.com.br/me/luiz-neto-04464)  
 
-⚡ Fun fact: I like cars, cooking, coding, dismantling and assembling things /play dangerzone.
+⚡ Fun fact: I like cars, cooking, coding, dismantling and assembling things.
+<!-- /play dangerzone.-->
