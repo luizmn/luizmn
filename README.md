@@ -1,6 +1,6 @@
 ### Wubba Lubba Dub Dub!! 👋
 
-:unlock: I’m currently learning React, MongoDB, Next and Node.  
+:unlock: I’m currently learning React, Next, MongoDB, FaunaDB and Node.
 
 :books: Currently, learning at [Rocketseat Ignite](https://rocketseat.com.br) and [LinkedIn Learning](https://www.linkedin.com/learning/)  
 
@@ -12,5 +12,5 @@
 
 [Rocketseat](https://app.rocketseat.com.br/me/luiz-neto-04464)  
 
-⚡ Fun fact: I like cars, cooking, coding, dismantling and assembling things.
+⚡ Fun fact: I also like cooking, cars, dismantling and assembling things.
 <!-- /play dangerzone.-->
