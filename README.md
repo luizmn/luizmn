@@ -2,8 +2,6 @@
 
 :unlock: I’m currently learning React, Next, MongoDB, FaunaDB and Node.
 
-:books: Currently, learning at [Rocketseat Ignite](https://rocketseat.com.br) and [LinkedIn Learning](https://www.linkedin.com/learning/)  
-
 :mortar_board: [Udacity Alumni](https://www.udacity.com)  
 
 :satellite: How to reach me:  
