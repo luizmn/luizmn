@@ -1,6 +1,6 @@
 ### Wubba Lubba Dub Dub!! 👋
 
-:unlock: I’m currently learning React, Next, MongoDB, FaunaDB and Node.
+:unlock: I’m currently in Angular, React, Next, MongoDB, FaunaDB, Node, NestJS.
 
 :mortar_board: [Udacity Alumni](https://www.udacity.com)  
 
